@@ -1,0 +1,48 @@
+{
+    "device_name": "",
+    "company_name": "",
+    "company_origin": "",
+    "extraction_date": "",
+    "website": "",
+    "privacy_policy_available": "",
+    "privacy_policy_language": "",
+    "wearing_time": "",
+    "max_run_time": "",
+    "data_authority":"",
+    "data_authority_contact":"",
+    "data_authority_distinction":"", 
+    "updates":"",
+    "data_pooled": "",
+    "data_encryption": "",
+
+    "data_storage_local": "",
+    "data_storage_device_provider":"",
+    "data_storage_third_parties": "",
+    "data_storage_EU": "",
+    "data_storage_outside_EU": "",
+
+    "data_sharing_device_provider": "",
+    "data_sharing_advertisers": "",
+    "data_sharing_other_users":"", 
+    "data_sharing_state_authorities":"",
+    "data_sharing_research": "",
+    "data_sharing_order_processing_parties":"",
+    "data_sharing_any_recipients": "",
+
+    "data_usage_core_functions_provider":"",
+    "data_usage_core_functions_third_parties":"",
+
+    "data_usage_improvement_provider":"",
+    "data_usage_improvement_third_parties":"",
+
+    "data_usage_sales_provider":"",
+    "data_usage_sales_third_parties":"", 
+
+    "data_usage_personalization_provider":"",
+    "data_usage_personalization_third_parties":"",
+
+    "data_usage_legal_obligations_provider":"",
+    "data_usage_legal_obligations_third_parties": ""
+ }
+
+ 

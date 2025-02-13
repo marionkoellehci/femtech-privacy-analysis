@@ -1,0 +1,102 @@
+
+{
+    "device_name": "Ava Fertility Bracelet",
+    "company_name": "Awesome Health Inc.",
+    "company_origin": "Zurich, Switzerland; San Francisco, US",
+    "extraction_date": "05-05-2024",
+    "website": "https://www.avawomen.com/de_en/privacy",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG, DE",
+    "wearing_time": "nightly",
+    "max_run_time": "12 hours",
+    "data_authority":"Right to information, Right to correction, Right to limitation of data processing, Right to deletion of personally identifiable information, Right to objection, Right to revocation of the declaration of consent under data protection law for the future and data transferability within the framework of the data protection law applicable; Right to assert claims in court or to file a complaint with responsible data protection authority",
+    "data_authority_contact":"e-mail, letter",
+    "data_authority_distinction":"No distinctions",  
+    "updates":"no notification",
+    "data_pooled": "F",
+
+    "data_encryption": "AVA has technical, organizational and physical safeguards in place to help protect against unauthorized access to use or disclose user data we maintain.", 
+    "data_storage_local": "NA",
+    "data_storage_device_provider":"T",
+    "data_storage_third_parties": "T",
+
+    "data_storage_EU": "T",
+    "data_storage_outside_EU": "T",
+    "data_sharing_device_provider": {
+      "personal_data": "user name;first name",
+      "demographic_data": "gender;age",
+      "location_data":"location information",
+      "device_information":"device identifiers;device battery level;IP address;browser type, internet service provider",
+      "interaction_data":"sync time and date;clickstream data;date/time stamp;web page flow",
+      "contact_data": "email address",
+      "health_and_fitness_data": "menstrual cycle;height;weight;fertility history;other conception and fertility;skin temperature;resting pulse;breathing rate"
+   },
+
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users":"NA", 
+    "data_sharing_state_authorities":{
+    },
+    "data_sharing_order_processing_parties":{
+    },
+
+    "data_sharing_any_recipients": "NA",
+
+    "data_usage_core_functions_provider":{
+      "personal_data": "user name;first name",
+      "demographic_data": "gender;age",
+      "device_information":"device identifiers;device battery level;IP address;browser type, internet service provider",
+      "interaction_data":"sync time and date;clickstream data;date/time stamp",
+      "health_and_fitness_data": "menstrual cycle;height;weight;fertility history;other conception and fertility;skin temperature;resting pulse;breathing rate"
+
+   },
+
+    "data_usage_core_functions_third_parties":{
+      "device_information":"device identifiers"
+    },
+      
+
+    "data_usage_improvement_provider":{
+      "location_data":"location information",
+      "device_information":"device identifiers;device battery level;IP address;browser type, internet service provider",
+      "interaction_data":"web page flow"
+    },  
+
+    "data_usage_improvement_third_parties":{
+    },
+      
+
+    "data_usage_sales_provider":{
+      "location_data":"location information",
+      "device_information":"device identifiers;device battery level;IP address;browser type, internet service provider",
+      "interaction_data":"web page flow"
+    },    
+
+   "data_usage_sales_third_parties":{
+    "device_information":"device identifiers"
+
+  },
+    
+    
+    "data_usage_personalization_provider":{
+      "device_information":"device identifiers"
+
+   },
+
+
+    "data_usage_personalization_third_parties":{
+      "device_information":"device identifiers"
+    },
+      
+    "data_usage_legal_obligations_provider":{
+      "personal_data": "user name;first name",
+      "demographic_data": "gender;age",
+      "location_data":"location information",
+      "device_information":"device identifiers;device battery level;IP address;browser type, internet service provider",
+      "interaction_data":"sync time and date;clickstream data;date/time stamp;web page flow",
+      "contact_data": "email address",
+      "health_and_fitness_data": "menstrual cycle;height;weight;fertility history;other conception and fertility;skin temperature;resting pulse;breathing rate"
+   },
+
+    "data_usage_legal_obligations_third_parties": "NA"
+ }
+ 

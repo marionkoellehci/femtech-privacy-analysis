@@ -1,0 +1,73 @@
+{
+    "device_name": "OvuSense Cycle Computer",
+    "company_name": "viO HealthTech Ltd.",
+    "company_origin": "Camberley, UK",
+    "extraction_date": "12-06-2024",
+    "website": "https://www.ovusense.com/eu/privacy-and-cookies/",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG,DE",
+    "wearing_time": "nightly",
+    "max_run_time": "12 months",
+    "data encryption": "In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.",
+    "data_authority":"Possible to request details of personal information under the Data Protection Act 1998 when paying a small fee, Objecting to the use of personal data for direct marketing purposes ",
+    "data_authority_contact":"letter, paying a small fee",
+    "data_authority_distinction":"No distinctions", 
+    "updates":"no notification",
+    "data_pooled": "T",
+
+    "data_storage_local": "NA",
+    "data_storage_device_provider":"T",
+
+    "data_storage_third_parties": "NA",
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "NA",
+
+    "data_sharing_device_provider": {
+      "contact_data": "name;mail address",
+      "demographic_data": "zip code",
+      "interaction_data": "content interest;preferences" 
+   },
+
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users": "",
+    "data_sharing_state_authorities": "",
+    "data_sharing_research": "NA",
+    "data_sharing_order_processing_parties": "",
+    "data_sharing_any_recipients": "NA",
+
+
+    "data_usage_core_functions_provider":{
+      "contact_data": "name;mail address",
+      "demographic_data": "zip code",
+      "interaction_data": "content interest;preferences" 
+   },
+
+    "data_usage_core_functions_third_parties": "",
+
+    "data_usage_improvement_provider": {
+      "contact_data": "name;mail address",
+      "demographic_data": "zip code",
+      "interaction_data": "content interest;preferences" 
+   },
+
+    "data_usage_improvement_third_parties": "",
+
+    "data_usage_sales_provider": {
+      "contact_data": "name;mail address",
+      "demographic_data": "zip code",
+      "interaction_data": "content interest;preferences" 
+   },
+
+    "data_usage_sales_third_parties": "",
+
+    "data_usage_personalization_provider": {
+      "contact_data": "name;mail address",
+      "demographic_data": "zip code",
+      "interaction_data": "content interest;preferences" 
+   },
+
+    "data_usage_personalization_third_parties": "NA",
+    "data_usage_legal_obligations_provider": "",
+    "data_usage_legal_obligations_third_parties": "NA"
+ }
+ 

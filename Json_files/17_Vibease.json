@@ -1,0 +1,103 @@
+{
+    "device_name": "Smart Lipstick Vibrator",
+    "company_name": "Vibease Inc.",
+    "company_origin": "San Francisco, US", 
+    "extraction_date": "20-06-2024",
+    "website": "https://www.vibease.com/privacy",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG",
+    "wearing_time": "purposefully",
+    "max_run_time": "2 h",
+    "data_authority":"Right to request the deletion of data",
+    "data_authority_contact":"e-mail",
+    "data_authority_distinction":"No distinctions", 
+    "updates":"no notification",
+    "data_pooled": "T",
+
+    "data_encryption": "We provide physical, electronic, and procedural safeguards to protect information we process and maintain. We use industry-standard technology, such as Secure Sockets Layer (SSL) encryption technology in transmission of certain sensitive information.",
+    "data_storage_third_parties": "NA",
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "T",
+    "data_storage_local": "NA",
+    "data_storage_device_provider":"T",
+
+
+    "data_sharing_device_provider": {
+        "personal_data": "name;user name",
+        "demographic_data": "age;gender",
+        "interaction_data": "download history;purchase history;interaction data",
+        "device_information": "device ID;IP address;OS version;browser version;Vibease device information",
+        "contact_data": "email address"
+       },
+
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users":"NA", 
+    "data_sharing_state_authorities":{
+        "personal_data": "name; user_name",
+        "demographic_data": "age; gender",
+        "interaction_data": "download_history; purchase_history; interaction_data",
+        "device_information": "device_ID; IP_address; OS_version; browser_version; Vibease_device_information",
+        "contact_data": "email_address"
+       },
+    
+    "data_sharing_research": "NA",
+
+    "data_sharing_order_processing_parties":"NA",
+
+    "data_sharing_any_recipients": "NA",
+
+    "data_usage_core_functions_provider":{
+        "personal_data": "name;user name",
+        "demographic_data": "age;gender",
+        "interaction_data": "download history;purchase history;interaction data",
+        "device_information": "device ID;IP address;OS version;browser version;Vibease device information",
+        "contact_data": "email address"
+       },
+
+    "data_usage_core_functions_third_parties":{
+        "personal_data": "name;user name",
+        "demographic_data": "age;gender",
+        "interaction_data": "download history;purchase history;interaction data",
+        "device_information": "device ID;IP address;OS version;browser version;Vibease device information",
+        "contact_data": "email address"
+       },
+
+    "data_usage_improvement_provider":{
+        "personal_data": "name;user name",
+        "demographic_data": "age;gender",
+        "interaction_data": "download history;purchase history;interaction data",
+        "device_information": "device ID;IP address;OS version;browser version;Vibease device information",
+        "contact_data": "email address"
+       },
+
+    "data_usage_improvement_third_parties":{
+        "personal_data": "name;user name",
+        "demographic_data": "age;gender",
+        "interaction_data": "download history;purchase history;interaction data",
+        "device_information": "device ID;IP address;OS version;browser version;Vibease device information",
+        "contact_data": "email address"
+       },
+
+    "data_usage_sales_provider":{
+        "personal_data": "name;user_name",
+        "demographic_data": "age;gender",
+        "contact_data": "email address"
+       },
+
+    "data_usage_sales_third_parties":"NA", 
+
+    "data_usage_personalization_provider":"NA",
+    "data_usage_personalization_third_parties":"NA",
+
+    "data_usage_legal_obligations_provider":{
+        "personal_data": "name;user name",
+        "demographic_data": "age;gender",
+        "interaction_data": "download history;purchase history;interaction data",
+        "device_information": "device ID;IP address;OS version;browser version;Vibease device information",
+        "contact_data": "email address"
+       },
+
+    "data_usage_legal_obligations_third_parties": "NA"
+ }
+
+ 

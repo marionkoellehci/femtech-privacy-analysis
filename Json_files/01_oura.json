@@ -1,0 +1,107 @@
+{   "device_name": "Ōura Ring",
+    "company_name": "Ōura Health Oy",
+    "company_origin": "Oulu, Finnland", 
+    "extraction_date": "13-11-2023 ",
+    "website": "https://ouraring.com/privacy-policy-oura-health",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG, DE",
+    "wearing_time": "fulltime",
+    "max_run_time":"7 days",
+    "data_encryption":"Oura uses technical and organizational safeguards to keep your data safe and secure. When appropriate, these safeguards include measures such as anonymization or pseudonymization of personal data, strict access control, and the use of encryption to protect the data we process.",
+    "data_authority":"Right to access data, Right to erasure, Right to rectification of inaccurate data, Right to data portability, Right to object to processing, Right to restrict processing, Right to withdraw consent, complain relevant EU Data Protection Authority,  opt out of direct marketing communications",
+    "data_authority_contact":"e-mail, access to data via Oura on the Web, erasure of basic information directly within Services",
+    "data_authority_distinction":"California",
+    "updates":"notification",
+    "data_pooled": "T",
+
+    "data_storage_local": "NA",
+    "data_storage_device_provider": "NA",
+    "data_storage_third_parties": "T",
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "NA",
+
+
+    "data_sharing_device_provider": {
+      "contact_data": "email address;address",
+      "demographic_data": "gender",
+      "device_information": "IP address",
+      "location_data": "location data", 
+      "health_and_fitness_data": "sleep phases;activity levels;body mass index;heart rate;height;weight;movement data;temperature data;respiration data"
+    },
+
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users" : "NA",
+
+    "data_sharing_state_authorities" : {
+      "contact_data": "email_address; address",
+      "demographic_data": "gender; height; weight; user_ID",
+      "device_information": "IP_address",
+      "location_data": "NA", 
+      "health_and_fitness_data": "sleep phases; activity levels; readiness level; body mass index"
+    },
+
+    "data_sharing_research" : "NA",
+    "data_sharing_order_processing_parties" : "NA",
+    "data_sharing_any_recipients" : "NA",
+
+    "data_usage_core_functions_provider" : {
+      "contact_data": "email address;address",
+      "demographic_data": "gender",
+      "device_information": "IP address",
+      "location_data": "location data", 
+      "health_and_fitness_data": "sleep phases;activity levels;body mass index;heart rate;height;weight;movement data;temperature data;respiration data"
+    },
+    
+    "data_usage_core_functions_third_parties" :{
+      "contact_data": "email address;address",
+      "demographic_data": "gender",
+      "device_information": "IP address",
+      "location_data": "location data", 
+      "health_and_fitness_data": "sleep phases;activity levels;body mass index;heart rate;height;weight;movement data;temperature data;respiration data"
+    },
+    
+    "data_usage_improvement_provider" :{
+      "contact_data": "email address;address",
+      "demographic_data": "gender",
+      "device_information": "IP address",
+      "location_data": "location data", 
+      "health_and_fitness_data": "sleep phases;activity levels;body mass index;heart rate;height;weight;movement data;temperature data;respiration data"
+    },
+
+    "data_usage_improvement_third_parties" :{
+      "contact_data": "email address;address",
+      "demographic_data": "gender",
+      "device_information": "IP address",
+      "location_data": "location data", 
+      "health_and_fitness_data": "sleep phases;activity levels;body mass index;heart rate;height;weight;movement data;temperature data;respiration data"
+    },
+
+    "data_usage_sales_provider" : {
+      "contact_data": "email address;address",
+      "demographic_data": "gender",
+      "device_information": "IP address",
+      "location_data": "location data", 
+      "health_and_fitness_data": "sleep phases;activity levels;body mass index;heart rate;height;weight;movement data;temperature data;respiration data"
+    },
+
+    "data_usage_sales_third_parties" :"NA",
+
+    "data_usage_personalization_provider" :{
+      "contact_data": "email address;address",
+      "demographic_data": "gender",
+      "device_information": "IP address",
+      "location_data": "location data", 
+      "health_and_fitness_data": "sleep phases;activity levels;body mass index;heart rate;height;weight;movement data;temperature data;respiration data"
+    },
+                                      
+    "data_usage_personalization_third_parties" :"",
+    "data_usage_legal_obligations_provider":{
+      "contact_data": "email address;address",
+      "demographic_data": "gender",
+      "device_information": "IP address",
+      "location_data": "location data", 
+      "health_and_fitness_data": "sleep phases;activity levels;body mass index;heart rate;height;weight;movement data;temperature data;respiration data"
+    },
+
+    "data_usage_legal_obligations_third_parties":"NA"
+  }

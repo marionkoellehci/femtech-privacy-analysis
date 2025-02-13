@@ -1,0 +1,124 @@
+{
+    "device_name": "Mira Hormone Monitor",
+    "company_name": "Quanovate Tech Inc.",
+    "company_origin": "San Ramon, US", 
+    "extraction_date": "05-05-2024",
+    "website": "https://www.miracare.com/privacy-policy/",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG",
+    "wearing_time": "purposefully",
+    "max_run_time": "30 days",
+    "data_authority":"multiple",
+    "data_authority_contact":"e-mail",
+    "data_authority_distinction":"California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon, Montana, Brazil, Switzerland", 
+    "updates":"notification",
+
+    "data_encryption": "The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.",
+    "data_storage_third_parties": "T",
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "T",
+    "data_storage_local": "NA",
+    "data_storage_device_provider":"T",
+    "data_pooled": "F",
+
+
+    "data_sharing_device_provider": {
+        "personal_data": "last name;first name;User ID;username",
+        "contact_data": "email address;phone number",
+        "demographic_data":"gender;date of birth",
+        "interaction_data": "usage data;session statistics;browsing history;page views;browser information",
+        "user_preferences":"user subscriptions",
+        "device_information": "IP address;device name;device ID;universally unique identifier;purchase history",
+        "location_data": "city;country;geographic position;physical address"
+     },
+
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users":"NA", 
+    "data_sharing_state_authorities":{
+        "personal_data": "last name;first name;User ID;username",
+        "contact_data": "email address;phone number",
+        "demographic_data":"gender;date of birth",
+        "interaction_data": "usage data;session statistics;browsing history;page views;browser information",
+        "user_preferences":"user subscriptions",
+        "device_information": "IP address;device name;device ID;universally unique identifier;purchase history",
+        "location_data": "city;country;geographic position;physical address"
+     },
+    
+    "data_sharing_research": "NA",
+
+    "data_sharing_order_processing_parties":{
+        "personal_data": "last name;first name;User ID;username",
+        "contact_data": "email address;phone number",
+        "demographic_data":"gender;date of birth",
+        "interaction_data": "usage data;session statistics;browsing history;page views;browser information",
+        "user_preferences":"user subscriptions",
+        "device_information": "IP address;device name;device ID;universally unique identifier;purchase history",
+        "location_data": "city;country;geographic position;physical address"
+     },
+
+    "data_sharing_any_recipients": "NA",
+
+    "data_usage_core_functions_provider":{
+        "personal_data": "last name;first name;User ID;username",
+        "contact_data": "email address;phone number",
+        "demographic_data":"gender;date of birth",
+        "interaction_data": "usage data;session statistics;browsing history;page views;browser information",
+        "user_preferences":"user subscriptions",
+        "device_information": "IP address;device name;device ID;universally unique identifier;purchase history",
+        "location_data": "city;country;geographic position;physical address"
+     },
+
+
+    "data_usage_core_functions_third_parties":{
+        "personal_data": "last name;first name;User ID;username",
+        "contact_data": "email address;phone number",
+        "demographic_data":"gender;date of birth",
+        "interaction_data": "usage data;session statistics;browsing history;page views;browser information",
+        "user_preferences":"user subscriptions",
+        "device_information": "IP address;device name;device ID;universally unique identifier;purchase history",
+        "location_data": "city;country;geographic position;physical address"
+     },
+
+    "data_usage_improvement_provider":{
+        "personal_data": "last name;first name;User ID;username",
+        "contact_data": "email address;phone number",
+        "interaction_data": "usage data;session statistics;browsing history;page views;browser information",
+        "location_data": "city;country;geographic position;physical address"
+     },
+
+
+    "data_usage_improvement_third_parties":{
+        "interaction_data": "usage data;session statistics;browsing history;page views;browser information"
+     },
+
+    "data_usage_sales_provider":{
+        "interaction_data": "usage data;session statistics;browsing history;page views;browser information"
+     },
+
+    "data_usage_sales_third_parties":{
+        "interaction_data": "usage data;session statistics;browsing history;page views;browser information"
+     },
+
+    "data_usage_personalization_provider":{
+  
+     },
+
+    "data_usage_personalization_third_parties":{
+
+     },
+
+    "data_usage_legal_obligations_provider":{
+        "personal_data": "last name;first name;User ID;username",
+        "contact_data": "email address;phone number",
+        "demographic_data":"gender;date of birth",
+        "interaction_data": "usage data;session statistics;browsing history;page views;browser information",
+        "user_preferences":"user subscriptions",
+        "device_information": "IP address;device name;device ID;universally unique identifier;purchase history",
+        "location_data": "city;country;geographic position;physical address"
+     },
+
+    "data_usage_legal_obligations_third_parties": {
+     }
+ }
+
+ 

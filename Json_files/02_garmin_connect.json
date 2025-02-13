@@ -1,0 +1,87 @@
+{
+    "device_name": "Lily Classic Edition",
+    "company_name": "Garmin Ltd.",
+    "company_origin": "Schaffhausen, Switzerland",
+    "extraction_date": "03-12-2023",
+    "website": "https://www.garmin.com/en-US/privacy/connect/policy/",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG, DE",
+    "wearing_time": "fulltime",
+    "max_run_time": "5 days",
+    "data_encryption": "NA", 
+    "data_authority":"multiple",
+    "data_authority_contact":"e-mail, letter, self-service portal 'Account Management Center'",
+    "data_authority_distinction":"EEA, UK, Switzerland, United States, California, Virginia, Colorado, Connecticut, Utah, Mainland China ",
+    "updates":"notification",
+    "data_pooled": "F",
+
+    "data_storage_local":"NA",
+    "data_storage_device_provider":"T",
+    "data_storage_third_parties": "T",
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "T",
+    
+    "data_sharing_device_provider": {
+      "contact_data": "email address;mobile number",
+      "personal_data": "user name;name",
+      "demographic_data":"gender;birthdate",
+      "location_data":"geographic location",
+      "interaction_data": "sync time and date;event logs;user behavior",
+      "health_and_fitness_data": "activity level;height;weight;activities;steps;distance;pace;activity time;calories burned;heart rate;sleep;menstrual cycle information;hydration",
+      "device_information":"device ID;device state information;device battery level;hardware and operating system information;IP address;network information;subscriptions;language setting"
+   },
+
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users": "NA",
+    "data_sharing_state_authorities": {
+   },
+
+    "data_sharing_research": "NA",
+    "data_sharing_order_processing_parties":{
+   },
+
+    "data_sharing_any_recipients": "NA",
+
+    "data_usage_core_functions_provider": {
+       "contact_data": "email address; password; mobile_number"
+    },
+
+    "data_usage_core_functions_third_parties": {
+   },
+
+    "data_usage_improvement_provider": {
+      "contact_data": "email address;mobile number",
+      "personal_data": "user name",
+      "demographic_data":"gender;birthdate",
+      "interaction_data": "sync time and date;event logs;user behavior",
+      "location_data":"geographic location",
+      "device_information":"device ID;device state information;device battery level;hardware and operating system information;IP address;network information;subscriptions;language setting"
+
+    },
+
+    "data_usage_improvement_third_parties": {
+      "interaction_data": "sync time and date;event logs;user behavior",
+      "device_information":"device ID;device state information;device battery level;hardware and operating system information;IP address;network information;subscriptions;language setting"
+   },
+
+    "data_usage_sales_provider": "NA",
+
+    "data_usage_sales_third_parties": "NA",
+
+    "data_usage_personalization_provider": {
+      "demographic_data":"gender;birthdate",
+      "location_data":"geographic location",
+      "health_and_fitness_data": "activity level;height;weight;activities;steps;distance;pace;activity time;calories burned;heart rate;sleep;menstrual cycle information;hydration",
+      "device_information":"device ID"
+   },
+
+    "data_usage_personalization_third_parties": "NA",
+
+    "data_usage_legal_obligations_provider":  {
+      "contact_data": "email address;mobile number",
+      "personal_data": "name"
+   },
+
+    "data_usage_legal_obligations_third_parties": "NA"
+ }
+ 

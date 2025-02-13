@@ -1,0 +1,103 @@
+{
+    "device_name": "HabitAware Keen2",
+    "company_name": "HabitAware Inc.",
+    "company_origin": "Minneapolis, US", 
+    "extraction_date": "05-05-2024",
+    "website": "https://habitaware.com/pages/legal?_pos=1&_sid=34136789b&_ss=r#privacypolicy",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG",
+    "wearing_time": "fulltime",
+    "max_run_time": "24 h",
+    "data_authority":"NA",
+    "data_authority_contact":"NA",
+    "data_authority_distinction":"no distinctions", 
+    "updates":"no notification",
+    "data_pooled": "T",
+
+    "data_encryption": "NA",
+    "data_storage_local": "NA",
+    "data_storage_device_provider":"T",
+    "data_storage_third_parties": "NA",
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "NA",
+
+    "data_sharing_device_provider": {
+        "personal_data": "name",
+        "device_information":"IP address;device ID;OS version",
+        "interaction_data": "access times;sites visited;sites visiting frequency",
+        "contact_data": "email address;address;phone number"
+       },
+
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users":"NA", 
+
+    "data_sharing_state_authorities":{
+        "personal_data": "name",
+        "device_information":"IP address;device ID;OS version",
+        "interaction_data": "access times;sites visited;sites visiting frequency",
+        "contact_data": "email address;address;phone number"
+       },
+
+    
+    "data_sharing_research": "NA",
+
+    "data_sharing_order_processing_parties":{
+        "personal_data": "name",
+        "device_information":"IP address;device ID;OS version",
+        "interaction_data": "access times;sites visited;sites visiting frequency",
+        "contact_data": "email address;address;phone number"
+       },
+
+    "data_sharing_any_recipients": "NA",
+
+    "data_usage_core_functions_provider":{
+        "personal_data": "name",
+        "device_information":"IP address;device ID;OS version",
+        "interaction_data": "access times;sites visited;sites visiting frequency",
+        "contact_data": "email address;address;phone number"
+       },
+
+    "data_usage_core_functions_third_parties":"NA",
+
+    "data_usage_improvement_provider":{
+        "personal_data": "name",
+        "device_information":"IP address;device ID;OS version",
+        "interaction_data": "access times;sites visited;sites visiting frequency",
+        "contact_data": "email address;address;phone number"
+       },
+
+
+    "data_usage_improvement_third_parties":{
+       },
+
+
+    "data_usage_sales_provider":{
+       },
+
+
+    "data_usage_sales_third_parties":"NA", 
+
+    "data_usage_personalization_provider": {
+        "personal_data": "name",
+        "device_information":"IP address;device ID;OS version",
+        "interaction_data": "access times;sites visited;sites visiting frequency",
+        "contact_data": "email address;address;phone number"
+       },
+
+
+
+    "data_usage_personalization_third_parties":{
+       },
+
+
+    "data_usage_legal_obligations_provider":{
+        "personal_data": "name",
+        "device_information":"IP address;device ID;OS version",
+        "interaction_data": "access times;sites visited;sites visiting frequency",
+        "contact_data": "email address;address;phone number"
+       },
+
+    "data_usage_legal_obligations_third_parties": "NA"
+ }
+
+ 

@@ -1,0 +1,109 @@
+{
+    "device_name": "Elvie Pump",
+    "company_name": "Chiaro Technology Ltd.",
+    "company_origin": "London, UK",
+    "extraction_date": "10-04-2024",
+    "website": "https://www.elvie.com/privacy-policy",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG, DE",
+    "wearing_time": "purposefully",
+    "max_run_time": "2,5 hours",
+    "data_authority":"Right of access, Right of portability, Right to rectification, Right to erasure, Right to restriction, Right to object to any processing based on our legitimate interests, Right to lodge a complaint",
+    "data_authority_contact":"e-mail, in-app account deletion function; possibilities to review and edit some of the personal information submitted through the functionality on the Apps",
+    "data_authority_distinction":"No distinctions",
+    "updates":"notification",
+    "data_pooled": "T",
+
+
+    "data encryption": "We implement appropriate technical and organisational measures to protect your personal information against accidental or unlawful destruction, loss, change or damage. All personal information we collect will be stored on secure servers. We will never send you unsolicited emails or contact you by phone requesting your account ID, password, credit or debit card information or national identification numbers.; When we collect personal information about your use of our products and Apps, we only store this information in a way that does not directly identify you. We will only re-identify you in exceptional circumstances, such as if we are required to do so by applicable law, such as if we need to conduct a product recall, or if you ask us to", 
+    "data_storage_local": "NA",
+    "data_storage_device_provider":"T",
+    "data_storage_third_parties": "T",
+    "data_storage_EU": "T",
+    "data_storage_outside_EU": "T",
+
+    "data_sharing_device_provider": {
+      "personal_data": "name",
+      "contact_data": "email address",
+      "demographic_data":"birthdate;number of children",
+      "interaction_data": "language setting;app sites visited;usage time;usage results;usage time",
+      "user_preferences":"communication;app display;abonnements",
+      "device_information": "IP address;device name;device ID"
+   },
+
+    "data_sharing_advertisers":{
+   },
+
+    "data_sharing_other_users":"NA", 
+    "data_sharing_state_authorities": {
+      "personal_data": "name",
+      "contact_data": "email address",
+      "demographic_data":"birthdate;number of children",
+      "interaction_data": "language setting;app sites visited;usage time;usage results;usage time",
+      "user_preferences":"communication;app display;abonnements",
+      "device_information": "IP address;device name;device ID"
+   },
+
+    "data_sharing_research": "NA",
+
+    "data_sharing_order_processing_parties": {
+
+    },
+
+
+    "data_sharing_any_recipients": "NA",
+
+    "data_usage_core_functions_provider":{
+      "personal_data": "name",
+      "contact_data": "emailaddress"
+   },
+
+    "data_usage_core_functions_third_parties": {
+      "personal_data": "name",
+      "contact_data": "email address",
+      "demographic_data":"birthdate;number of children",
+      "interaction_data": "language setting;app sites visited;usage time;usage results;usage time",
+      "user_preferences":"communication;app display;abonnements",
+      "device_information": "IP address;device name;device ID"
+   },
+
+    "data_usage_improvement_provider":{
+      "personal_data": "name",
+      "contact_data": "emailaddress"
+   },
+
+    "data_usage_improvement_third_parties": "NA",
+
+    "data_usage_sales_provider": {
+   },
+
+   "data_usage_sales_third_parties": {
+    "personal_data": "name",
+    "contact_data": "emailaddress"
+ },
+   
+    "data_usage_personalization_provider":{
+      "demographic_data":"birthdate;number of children"
+
+   },
+
+    "data_usage_personalization_third_parties": "NA",
+    "data_usage_legal_obligations_provider":{
+      "personal_data": "name",
+      "contact_data": "email address",
+      "demographic_data":"birthdate;number of children",
+      "interaction_data": "language setting;app sites visited;usage time;usage results;usage time",
+      "user_preferences":"communication;app display;abonnements",
+      "device_information": "IP address;device name;device ID"
+   },
+
+    "data_usage_legal_obligations_third_parties": {
+      "personal_data": "name",
+      "contact_data": "email address",
+      "demographic_data":"birthdate;number of children",
+      "interaction_data": "language setting;app sites visited;usage time;usage results;usage time",
+      "user_preferences":"communication;app display;abonnements",
+      "device_information": "IP address;device name;device ID"
+   }
+ }
+ 

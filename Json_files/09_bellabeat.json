@@ -1,0 +1,110 @@
+{
+    "device_name": "IVY+ health tracker",
+    "company_name": "Bellabeat Inc.",
+    "company_origin":"San Francisco, US", 
+    "extraction_date": "05-05-2024",
+    "website": "https://legal.bellabeat.com/privacy-policy.html",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG",
+    "wearing_time": "fulltime",
+    "max_run_time": "8 days",
+    "data_authority":"Right to know what Personal Data is collected; Right to have incomplete, incorrect, outdated, or unnecessary Personal Data corrected, deleted or updated; Right to opt out of receiving electronic direct marketing communications; Right to withdraw consent",
+    "data_authority_contact":"e-mail",
+    "data_authority_distinction":"EU, EEA, UK, US, California",  
+    "updates":"notification",
+    "data_pooled": "T",
+
+    "data encryption": "We make reasonable efforts to protect your Personal Data by using a combination of administrative, contractual, physical and electronic safeguards designed to improve the security of the Personal Data we maintain. However, as no electronic transmission or storage of information can be entirely secure, we can make no guarantees as to the security or privacy of your Personal Data.", 
+    "data_storage_local": "",
+    "data_storage_device_provider": "",
+    "data_storage_third_parties": "T",
+    "data_storage_EU": "T",
+    "data_storage_outside_EU": "T",
+
+    "data_sharing_device_provider": {
+      "personal_data": "first name;last name;company",
+      "contact_data": "email address;address;phone number",
+      "health_and_fitness_data":  "weight;menstrual cycle;date of conception;estimated due date;activity goals;health goals;physical activity;heart rate;sleep data;steps;calories burned",
+      "demographic_data": "age",
+      "interaction_data": "audio recordings;content interest;access times",
+      "device_information":"IP address;device type;device ID;applications installed;OS version"
+    },
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users":"NA", 
+    "data_sharing_state_authorities":"",
+    "data_sharing_research": "",
+    "data_sharing_order_processing_parties":"",
+    "data_sharing_any_recipients": "NA",
+
+    "data_usage_core_functions_provider":{
+      "personal_data": "first name;last name;company",
+      "contact_data": "email address;address;phone number",
+      "health_and_fitness_data": "weight;menstrual cycle;date of conception;estimated due date;activity goals;health goals;physical activity;heart rate;sleep data;steps;calories burned",
+      "demographic_data": "age",
+      "interaction_data": "audio recordings;content interest;access times",
+      "device_information":"IP address;device type;device ID;applications installed;OS version"
+    },
+
+    "data_usage_core_functions_third_parties":{
+      "personal_data": "first name;last name;company",
+      "contact_data": "email address;address;phone number",
+      "health_and_fitness_data":  "weight;menstrual cycle;date of conception;estimated due date;activity goals;health goals;physical activity;heart rate;sleep data;steps;calories burned",
+      "demographic_data": "age"
+    },
+
+    "data_usage_improvement_provider":{
+      "personal_data": "first name;last name;company",
+      "contact_data": "email address;address;phone number",
+      "health_and_fitness_data": "weight;menstrual cycle;date of conception;estimated due date;activity goals;health goals;physical activity;heart rate;sleep data;steps;calories burned",
+      "demographic_data": "age",
+      "interaction_data": "audio recordings;content interest;access times",
+      "device_information":"IP address;device type;device ID;applications installed;OS version"
+    },
+
+
+    "data_usage_improvement_third_parties":{
+    },
+
+
+    "data_usage_sales_provider":{
+      "personal_data": "first name;last name;company",
+      "contact_data": "email address;address;phone number",
+      "health_and_fitness_data":  "weight;menstrual cycle;date of conception;estimated due date;activity goals;health goals;physical activity;heart rate;sleep data;steps;calories burned",
+      "demographic_data": "age",
+      "interaction_data": "audio recordings;content interest;access times",
+      "device_information":"IP address;device type;device ID;applications installed;OS version"
+    },
+
+
+
+    "data_usage_sales_third_parties":"", 
+
+    "data_usage_personalization_provider":{
+      "personal_data": "first name;last name;company",
+      "contact_data": "email address;address;phone number",
+      "health_and_fitness_data":  "weight;menstrual cycle;date of conception;estimated due date;activity goals;health goals;physical activity;heart rate;sleep data;steps;calories burned",
+      "demographic_data": "age",
+      "interaction_data": "audio recordings;content interest;access times",
+      "device_information":"IP address;device type;device ID;applications installed;OS version"
+    },
+
+    "data_usage_personalization_third_parties":"",
+
+    "data_usage_legal_obligations_provider":{
+      "personal_data": "first name;last name;company",
+      "contact_data": "email address;address;phone number",
+      "health_and_fitness_data":  "weight;menstrual cycle;date of conception;estimated due date;activity goals;health goals;physical activity;heart rate;sleep data;steps;calories burned",
+      "demographic_data": "age",
+      "interaction_data": "audio recordings;content interest;access times",
+      "device_information":"IP address;device type;device ID;applications installed;OS version"
+    },
+
+    "data_usage_legal_obligations_third_parties": {
+      "personal_data": "first name;last name;company",
+      "contact_data": "email address;address;phone number",
+      "health_and_fitness_data":  "weight;menstrual cycle;date of conception;estimated due date;activity goals;health goals;physical activity;heart rate;sleep data;steps;calories burned",
+      "demographic_data": "age",
+      "interaction_data": "audio recordings;content interest;access times",
+      "device_information":"IP address;device type;device ID;applications installed;OS version"
+    }
+ }

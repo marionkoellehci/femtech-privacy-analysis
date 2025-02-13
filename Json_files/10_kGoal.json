@@ -1,0 +1,80 @@
+{
+    "device_name": "kGoal Classic Kegel Trainer for Women",
+    "company_name": "Therapy Holdings Inc.",
+    "company_origin":"San Francisco, US", 
+    "extraction_date": "05-05-2024",
+    "website": "https://www.kgoal.com/pages/privacy-policy",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG",
+    "wearing_time": "purposefully",
+    "max_run_time": "2 hours",
+    "data_authority":"Option to delete personal user information",
+    "data_authority_contact":"e-mail",
+    "data_authority_distinction":"No distinctions",  
+    "updates":"notification",
+    "data_pooled": "F",
+
+    "data_encryption": "NA",
+    "data_storage_third_parties": "T",
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "T",
+    "data_storage_local": "NA",
+    "data_storage_device_provider":"T",
+
+
+    "data_sharing_device_provider": {
+        "contact_data": "email address",
+        "interaction_data":"workout start date;start time;end date;end time;sync time",
+        "device_information": "device ID",
+        "health_and_fitness_data": "physical performance;general health"
+    },
+
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users":"NA", 
+    "data_sharing_state_authorities":{
+        "contact_data": "email address",
+        "interaction_data":"workout start date;start time;end date;end time;sync time",
+        "device_information": "device ID",
+        "health_and_fitness_data": "physical performance;general health"
+    },
+    
+    "data_sharing_research": "NA",
+
+    "data_sharing_order_processing_parties":"NA",
+
+    "data_sharing_any_recipients": "NA",
+
+    "data_usage_core_functions_provider":{
+        "contact_data": "email address"
+    },
+
+    "data_usage_core_functions_third_parties":"NA",
+
+    "data_usage_improvement_provider":{
+        "contact_data": "email address",
+        "interaction_data":"workout start date;start time;end date;end time;sync time"
+    },
+
+    "data_usage_improvement_third_parties":"NA",
+
+    "data_usage_sales_provider":{
+        "contact_data": "email address",
+        "interaction_data":"workout start date;start time;end date;end time;sync time",
+        "health_and_fitness_data": "physical performance;general health"
+    },
+    "data_usage_sales_third_parties":"NA", 
+
+    "data_usage_personalization_provider":"NA",
+    "data_usage_personalization_third_parties":"NA",
+
+    "data_usage_legal_obligations_provider":{
+        "contact_data": "email address",
+        "interaction_data":"workout start date;start time;end date;end time;sync time",
+        "device_information": "device ID",
+        "health_and_fitness_data": "physical performance;general health"
+    },
+    
+    "data_usage_legal_obligations_third_parties": "NA"
+ }
+
+ 

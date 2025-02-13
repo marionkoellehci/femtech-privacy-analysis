@@ -1,0 +1,117 @@
+{
+    "device_name": "Tempdrop Fertility Monitor",
+    "company_name": "Tempdrop Inc.",
+    "company_origin": "Clifton, US", 
+    "extraction_date": "22-05-2024",
+    "website": "https://www.tempdrop.com/pages/privacy-policy",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG",
+    "wearing_time": "nightly",
+    "max_run_time": "6 months",
+    "data_authority":"Right to Withdraw Consent at any time, Right to Object, Right to Restrict, Right to be Forgotten, Right to submit a complaint to supervisory data protection authority",
+    "data_authority_contact":"e-mail",
+    "data_authority_distinction":"EU",  
+    "updates":"notification",
+    "data_pooled": "F",
+
+    "data_encryption": "NA",
+    "data_storage_third_parties": "T",
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "T",
+    "data_storage_local": "NA",
+    "data_storage_device_provider":"T",
+
+    "data_sharing_device_provider": {
+     "personal_data": "first name;last name",
+     "contact_data": "email address;address;mobile number",
+     "demographic_data": "age",
+     "device_information":"IP address;device type;OS version;unique device identifiers",
+     "location_data":"device geolocation",
+     "interaction_data": "use frequency;session duration",
+     "health_and_fitness_data": "body temperature;motion;symptoms;menstrual cycle;PMS;cervical mucus;usage intention"
+    },
+
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users":"NA", 
+    "data_sharing_state_authorities":{
+        "personal_data": "first name;last name",
+        "contact_data": "email address;address;mobile number",
+        "demographic_data": "age",
+        "device_information":"IP address;device type;OS version;unique device identifiers",
+        "location_data":"device geolocation",
+        "interaction_data": "use frequency;session duration",
+        "health_and_fitness_data": "body temperature;motion;symptoms;menstrual cycle;PMS;cervical mucus;usage intention"
+       },
+   
+    
+    "data_sharing_research": "NA",
+
+    "data_sharing_order_processing_parties":{
+        "personal_data": "first name;last name",
+        "contact_data": "email address;address;mobile number",
+        "demographic_data": "age",
+        "device_information":"IP address;device type;OS version;unique device identifiers",
+        "location_data":"device geolocation",
+        "interaction_data": "use frequency;session duration",
+        "health_and_fitness_data": "body temperature;motion;symptoms;menstrual cycle;PMS;cervical mucus;usage intention"
+       },
+   
+
+    "data_sharing_any_recipients": "NA",
+
+    "data_usage_core_functions_provider":{
+        "personal_data": "first name;last name",
+        "contact_data": "email address;address;mobile number",
+        "demographic_data": "age",
+        "device_information":"IP address;device type;OS version;unique device identifiers",
+        "location_data":"device geolocation",
+        "interaction_data": "use frequency;session duration",
+        "health_and_fitness_data": "body temperature;motion;symptoms;menstrual cycle;PMS;cervical mucus;usage intention"
+       },
+   
+
+    "data_usage_core_functions_third_parties":{
+        "personal_data": "first name;last name",
+        "contact_data": "email address;address;mobile number",
+        "demographic_data": "age",
+        "device_information":"IP address;device type;OS version;unique device identifiers",
+        "location_data":"device geolocation",
+        "interaction_data": "use frequency;session duration",
+        "health_and_fitness_data": "body temperature;motion;symptoms;menstrual cycle;PMS;cervical mucus;usage intention"
+       },
+   
+
+    "data_usage_improvement_provider":{
+        "personal_data": "first name;last name",
+        "contact_data": "email address;address;mobile number",
+        "device_information":"IP address;device type;OS version;unique device identifiers",
+        "interaction_data": "use frequency;session duration",
+        "health_and_fitness_data": "body temperature;motion;symptoms;menstrual cycle;PMS;cervical mucus;usage intention"
+       },
+   
+
+    "data_usage_improvement_third_parties":"NA",
+
+    "data_usage_sales_provider":"NA",
+
+    "data_usage_sales_third_parties":"NA", 
+
+    "data_usage_personalization_provider":{
+        "interaction_data": "use frequency;session_duration"
+       },
+
+    "data_usage_personalization_third_parties":"NA",
+
+    "data_usage_legal_obligations_provider":{
+        "personal_data": "first_name; last_name",
+        "contact_data": "email_address; address; mobile_number",
+        "demographic_data": "age",
+        "device_information":"IP_address; device_type; OS_version; unique_device_identifiers",
+        "location_data":"device_geolocation",
+        "health_and_fitness_data": "body temperature; motion; symptoms; menstrual_cycle; PMS; cervical_mucus; usage_intention"
+       },
+
+    "data_usage_legal_obligations_third_parties": "NA"
+ }
+
+ 

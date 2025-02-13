@@ -1,0 +1,81 @@
+{
+    "device_name": "Proov",
+    "company_name": "MFB Fertility Inc.",
+    "company_origin":"Boulder, US",
+    "extraction_date": "12-06-2024",
+    "website": "https://proovtest.com/policies/privacy-policy",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG",
+    "wearing_time": "purposefully",
+    "max_run_time": "NA",
+    "data encryption": "In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect online.",
+    "data_authority":"multiple",
+    "data_authority_contact":"e-mail, letter",
+    "data_authority_distinction":"EU", 
+    "updates":"no notification",
+    "data_pooled": "T",
+
+    "data_storage_local": "NA",
+    "data_storage_device_provider": "T",
+   
+    "data_storage_third_parties": "NA",
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "NA",
+
+    "data_sharing_device_provider": {
+      "contact_data": "name;mail address",
+      "demographic_data": "zip code",
+      "interaction_data": "content interest;preferences" 
+   },
+
+    "data_sharing_advertisers": "NA",
+    
+    "data_sharing_other_users": "",
+    "data_sharing_state_authorities": {
+      "contact_data": "name;mail address",
+      "demographic_data": "zip code",
+      "interaction_data": "content interest;preferences" 
+   },
+
+    "data_sharing_research": "NA",
+    "data_sharing_order_processing_parties": "",
+    "data_sharing_any_recipients": "NA",
+
+
+    "data_usage_core_functions_provider":{
+      "contact_data": "name;mail address",
+      "demographic_data": "zip code",
+      "interaction_data": "content interest;preferences" 
+   },
+
+    "data_usage_core_functions_third_parties": "",
+
+    "data_usage_improvement_provider": {
+      "contact_data": "name;mail address",
+      "demographic_data": "zip code",
+      "interaction_data": "content interest;preferences" 
+   },
+    "data_usage_improvement_third_parties": "",
+
+    "data_usage_sales_provider": {
+   },
+
+    "data_usage_sales_third_parties": "",
+
+    "data_usage_personalization_provider": {
+      "contact_data": "name;mail address",
+      "demographic_data": "zip code",
+      "interaction_data": "content interest;preferences" 
+   },
+
+    "data_usage_personalization_third_parties": "NA",
+
+    "data_usage_legal_obligations_provider": {
+      "contact_data": "name;mail address",
+      "demographic_data": "zip code",
+      "interaction_data": "content interest;preferences" 
+   },
+
+    "data_usage_legal_obligations_third_parties": "NA"
+ }
+ 

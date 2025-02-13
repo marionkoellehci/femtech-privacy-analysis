@@ -1,0 +1,53 @@
+{
+    "device_name": "iFertracker Smart Fertility Tracker",
+    "company_name": "Raiing Medical Inc.",
+    "company_origin":"Miami, US", 
+    "extraction_date": "05-05-2024",
+    "website": "https://ifertracker.com/pages/privacy-policy?_pos=1&_sid=72a70ccc3&_ss=r",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG",
+    "wearing_time": "nightly",
+    "max_run_time": "45-60 days",
+    "data_authority":"NA",
+    "data_authority_contact":"NA",
+    "data_authority_distinction":"No distinctions",  
+    "updates":"no notification",
+    "data_pooled": "NA",
+    
+    "data_encryption": "NA",
+    "data_storage_local": "NA",
+    "data_storage_device_provider":"NA",
+    "data_storage_third_parties": "NA",
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "NA",
+
+    "data_sharing_device_provider": "NA",
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users":"NA", 
+    "data_sharing_state_authorities":"NA",
+    
+    "data_sharing_research": "NA",
+
+    "data_sharing_order_processing_parties":"NA",
+
+    "data_sharing_any_recipients": "NA",
+
+    "data_usage_core_functions_provider":"NA",
+
+    "data_usage_core_functions_third_parties":"NA",
+
+    "data_usage_improvement_provider":"NA",
+
+    "data_usage_improvement_third_parties":"NA",
+
+    "data_usage_sales_provider":"NA",
+    "data_usage_sales_third_parties":"NA", 
+
+    "data_usage_personalization_provider":"NA",
+    "data_usage_personalization_third_parties":"NA",
+
+    "data_usage_legal_obligations_provider":"NA",
+    "data_usage_legal_obligations_third_parties": "NA"
+ }
+
+ 

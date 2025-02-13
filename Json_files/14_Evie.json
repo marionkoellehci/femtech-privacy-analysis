@@ -1,0 +1,102 @@
+{
+    "device_name": "Evie Ring",
+    "company_name": "Movano Health Inc.",
+    "company_origin": "Pleasanton, US", 
+    "extraction_date": "12-06-2024",
+    "website": "https://support.eviering.com/hc/en-us/articles/20369378690573-Privacy-Policy",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG",
+    "wearing_time": "fulltime",
+    "max_run_time": "4 days",
+    "data encryption": "NA",
+    "data_authority":"multiple",
+    "data_authority_contact":"Support page, delete Device Information or Menstrual Health Data via the Settings menu",
+    "data_authority_distinction":"California, Colorado, Connecticut, Utah, Virginia", 
+    "updates":"notification",
+    "data_pooled": "T",
+
+    "data_storage_local": "NA",
+    "data_storage_device_provider":"T",
+   
+    "data_storage_third_parties":"T",
+
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "NA",
+
+    "data_sharing_device_provider": {
+      "demographic_data": "gender;age",
+      "device_information":"used network;device type;device name;OS version;mobile network;IP address;unique device identifiers;app version",
+      "health_and_fitness_data": "weight;height;sleep goals;step goals;menstrual cycle tracking;feeling;heart rate;heart rate variability;respiration rate;skin temperature variation;sleep data;steps;activity intensity;calories burned;distance travelled"
+   },
+
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users": "",
+    "data_sharing_state_authorities": {
+      "demographic_data": "gender;age",
+      "device_information":"used network;device type;device name;OS version;mobile network;IP address;unique device identifiers;app version",
+      "health_and_fitness_data": "weight;height;sleep goals;step goals;menstrual cycle tracking;feeling;heart rate;heart rate variability;respiration rate;skin temperature variation;sleep data;steps;activity intensity;calories burned;distance travelled"
+   },
+
+    "data_sharing_research": "NA",
+    "data_sharing_order_processing_parties": "",
+    "data_sharing_any_recipients": "NA",
+
+
+    "data_usage_core_functions_provider":{
+      "demographic_data": "gender;age",
+      "device_information":"used network;device type;device name;OS version;mobile network;IP address;unique device identifiers;app version",
+      "health_and_fitness_data": "weight;height;sleep goals;step goals;menstrual cycle tracking;feeling;heart rate;heart rate variability;respiration rate;skin temperature variation;sleep data;steps;activity intensity;calories burned;distance travelled"
+   },
+
+    "data_usage_core_functions_third_parties": {
+      "demographic_data": "gender, age",
+      "device_information":"used_network; device_type; device_name; OS_version; mobile_network; IP_address; unique_devie_identifiers; app_version",
+      "health_and_fitness_data": "weight; height; sleep goals; step goals; menstrual cycle tracking; feeling; heart rate; heart rate variability; SpO2; respiration rate; skin temperature variation; sleep data; steps; activity intensity; calories burned; distance travelled"
+   },
+
+    "data_usage_improvement_provider": {
+      "demographic_data": "gender;age",
+      "device_information":"used network;device type;device name;OS version;mobile network;IP address;unique device identifiers;app version",
+      "health_and_fitness_data": "weight;height;sleep goals;step goals;menstrual cycle tracking;feeling;heart rate;heart rate variability;respiration rate;skin temperature variation;sleep data;steps;activity intensity;calories burned;distance travelled"
+   },
+
+    "data_usage_improvement_third_parties": {
+      "demographic_data": "gender, age",
+      "device_information":"used_network; device_type; device_name; OS_version; mobile_network; IP_address; unique_devie_identifiers; app_version",
+      "health_and_fitness_data": "weight; height; sleep goals; step goals; menstrual cycle tracking; feeling; heart rate; heart rate variability; SpO2; respiration rate; skin temperature variation; sleep data; steps; activity intensity; calories burned; distance travelled"
+   },
+
+    "data_usage_sales_provider": {
+      "demographic_data": "gender;age",
+      "device_information":"used network;device type;device name;OS version;mobile network;IP address;unique device identifiers;app version",
+      "health_and_fitness_data": "weight;height;sleep goals;step goals;menstrual cycle tracking;feeling;heart rate;heart rate variability;respiration rate;skin temperature variation;sleep data;steps;activity intensity;calories burned;distance travelled"
+   },
+
+    "data_usage_sales_third_parties": {
+      "demographic_data": "gender;age",
+      "device_information":"used network;device type;device name;OS version;mobile network;IP address;unique device identifiers;app version",
+      "health_and_fitness_data": "weight;height;sleep goals;step goals;menstrual cycle tracking;feeling;heart rate;heart rate variability;respiration rate;skin temperature variation;sleep data;steps;activity intensity;calories burned;distance travelled"
+   },
+
+    "data_usage_personalization_provider": {
+      "demographic_data": "gender;age",
+      "device_information":"used network;device type;device name;OS version;mobile network;IP address;unique device identifiers;app version",
+      "health_and_fitness_data": "weight;height;sleep goals;step goals;menstrual cycle tracking;feeling;heart rate;heart rate variability;respiration rate;skin temperature variation;sleep data;steps;activity intensity;calories burned;distance travelled"
+   },
+
+    "data_usage_personalization_third_parties": "NA",
+
+    "data_usage_legal_obligations_provider":{
+      "demographic_data": "gender;age",
+      "device_information":"used network;device type;device name;OS version;mobile network;IP address;unique device identifiers;app version",
+      "health_and_fitness_data": "weight;height;sleep goals;step goals;menstrual cycle tracking;feeling;heart rate;heart rate variability;respiration rate;skin temperature variation;sleep data;steps;activity intensity;calories burned;distance travelled"
+   },
+
+    "data_usage_legal_obligations_third_parties": {
+      "demographic_data": "gender;age",
+      "device_information":"used network;device type;device name;OS version;mobile network;IP address;unique device identifiers;app version",
+      "health_and_fitness_data": "weight;height;sleep goals;step goals;menstrual cycle tracking;feeling;heart rate;heart rate variability;respiration rate;skin temperature variation;sleep data;steps;activity intensity;calories burned;distance travelled"
+   }
+
+ }
+ 

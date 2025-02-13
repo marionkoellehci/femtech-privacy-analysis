@@ -1,0 +1,61 @@
+{
+    "device_name": "Trackle sensor system",
+    "company_name": "Trackle GmbH",
+    "company_origin": "Bonn, Germany", 
+    "extraction_date": "22-02-2024",
+    "website": "https://trackle.de/pages/privacy-policy-of-the-trackle-app/#:~:text=The%20plain%20text%20version%20of,to%20the%20respective%20data%20collection.",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG, DE",
+    "wearing_time": "nightly",
+    "max_run_time": "2 years",
+    "data encryption": "The email address is anonymized („SHA512“) and stored in the backend as a unique identifier for connecting to the app. The plain text version of the email address is stored exclusively on the mobile device and is never transmitted; This app uses various cryptographic methods for security and to protect the transmission of sensitive content, such as temperature data. The connection between the sensor and the app is protected by the Bluetooth LE protocol. The HTTP connection between the app and the backend is encrypted using the TLS method (TLS 1.2). In addition, the integrity of the transmitted data is protected by an asymmetric encryption procedure (public-private key procedure: ECC). Digital signatures prevent the data you transmit from being changed unnoticed (content, sequence, completeness).",
+    "data_authority":"Right to complain to the competent supervisory authority, Right to obtain information about the data stored, its origin and recipients, Right to obtain information about the purpose of data processing, Right to correct data, Right to block or delete data",
+    "data_authority_contact":"e-mail",
+    "data_authority_distinction":"No distinctions",
+    "updates":"NA",
+    "data_pooled": "F",
+
+    "data_storage_local": {
+      "contact_data": "email_address"  
+   },
+
+    "data_storage_device_provider": {
+      "health_and_fitness_data": "body_temperature; health_information" 
+   },
+
+    "data_storage_third_parties": "NA",
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "NA",
+
+    "data_sharing_device_provider": {
+      "contact_data": "user name;mail address",
+      "interaction_data": "usage behavior",
+      "health_and_fitness_data": "body temperature;health information"  
+   },
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users": "",
+    "data_sharing_state_authorities": "",
+    "data_sharing_research": "NA",
+    "data_sharing_order_processing_parties": "",
+    "data_sharing_any_recipients": "NA",
+
+
+    "data_usage_core_functions_provider":{
+      "contact_data": "user name;mail address",
+      "health_and_fitness_data": "body temperature;health information"  
+   },
+
+    "data_usage_core_functions_third_parties": "",
+    "data_usage_improvement_provider": {
+      "interaction_data": "usage behavior"
+   },
+
+    "data_usage_improvement_third_parties": "",
+    "data_usage_sales_provider": "",
+    "data_usage_sales_third_parties": "",
+    "data_usage_personalization_provider": "",
+    "data_usage_personalization_third_parties": "NA",
+    "data_usage_legal_obligations_provider": "",
+    "data_usage_legal_obligations_third_parties": "NA"
+ }
+ 

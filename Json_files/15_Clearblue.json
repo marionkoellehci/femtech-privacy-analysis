@@ -1,0 +1,113 @@
+{
+    "device_name": "Clearblue Connected",
+    "company_name": "iSwiss Precision Diagnostics GmbH; SPD Development Company Ltd.",
+    "company_origin": "Geneva, Switzerland", 
+    "extraction_date": "20-06-2024",
+    "website": "https://www.clearblue.com/period-tracker/privacy-policy",
+    "privacy_policy_available": "T",
+    "privacy_policy_language": "ENG, DE",
+    "wearing_time": "purposefully",
+    "max_run_time": "NA",
+    "data_authority":"multiple",
+    "data_authority_contact":"e-mail, where permitted under applicable law a charge may apply before a copy of stored personal information can be provided",
+    "data_authority_distinction":"California", 
+    "updates":"notification",
+    "data_pooled": "T",
+
+    "data_encryption": "We have implemented procedures and controls to help ensure that personal information is protected no matter what country it is stored in or transferred to.",
+    "data_storage_local": "NA",
+    "data_storage_device_provider":"T",
+    "data_storage_third_parties": "NA",
+    "data_storage_EU": "NA",
+    "data_storage_outside_EU": "T",
+
+    "data_sharing_device_provider": {
+        "personal_data": "name",
+        "contact_data": "email address;address;mobile number;phone call recordings;screen name",
+        "demographic_data": "birthdate",
+        "interaction_data": "future communication preferences;interaction data",
+        "device_information":"OS version;unique device identifiers",
+        "health_and_fitness_data": "height;weight;use of hormonal birth control;pregnancy status;breastfeeding status;period flow;headaches;appetite change;mood;breast tenderness;skin condition;cycle length"
+       },
+
+    "data_sharing_advertisers": "NA",
+    "data_sharing_other_users":"NA", 
+    "data_sharing_state_authorities":"NA",
+    "data_sharing_research": "NA",
+
+    "data_sharing_order_processing_parties":{
+        "personal_data": "name",
+        "contact_data": "email address;address;mobile number;phone call recordings;screen name",
+        "demographic_data": "birthdate",
+        "interaction_data": "future communication preferences;interaction data",
+        "device_information":"OS version;unique device identifiers",
+        "health_and_fitness_data": "height;weight;use of hormonal birth control;pregnancy status;breastfeeding status;period flow;headaches;appetite change;mood;breast tenderness;skin condition;cycle length"
+       },
+
+    "data_sharing_any_recipients": "NA",
+
+    "data_usage_core_functions_provider":{
+        "personal_data": "name",
+        "contact_data": "email address;address;mobile number;phone call recordings;screen name",
+        "demographic_data": "birthdate",
+        "interaction_data": "future communication preferences;interaction data",
+        "device_information":"OS version;unique device identifiers",
+        "health_and_fitness_data": "height;weight;use of hormonal birth control;pregnancy status;breastfeeding status;period flow;headaches;appetite change;mood;breast tenderness;skin condition;cycle length"
+       },
+    "data_usage_core_functions_third_parties":{
+        "personal_data": "name",
+        "contact_data": "email address;address;mobile number;phone call recordings;screen name",
+        "demographic_data": "birthdate",
+        "interaction_data": "future communication preferences;interaction data",
+        "device_information":"OS version;unique device identifiers",
+        "health_and_fitness_data": "height;weight;use of hormonal birth control;pregnancy status;breastfeeding status;period flow;headaches;appetite change;mood;breast tenderness;skin condition;cycle length"
+       },
+
+    "data_usage_improvement_provider":{
+        "personal_data": "name",
+        "contact_data": "email address;address;mobile number;phone call recordings;screen name",
+        "demographic_data": "birthdate",
+        "interaction_data": "future communication preferences;interaction data",
+        "device_information":"OS version;unique device identifiers",
+        "health_and_fitness_data": "height;weight;use of hormonal birth control;pregnancy status;breastfeeding status;period flow;headaches;appetite change;mood;breast tenderness;skin condition;cycle length"
+       },
+
+    "data_usage_improvement_third_parties":{
+        "personal_data": "name",
+        "contact_data": "email address;address;mobile number;phone call recordings;screen name",
+        "demographic_data": "birthdate",
+        "interaction_data": "future communication preferences;interaction data",
+        "device_information":"OS version;unique device identifiers",
+        "health_and_fitness_data": "height;weight;use of hormonal birth control;pregnancy status;breastfeeding status;period flow;headaches;appetite change;mood;breast tenderness;skin condition;cycle length"
+       },
+
+    "data_usage_sales_provider":{
+        "personal_data": "name",
+        "contact_data": "email address;address;mobile number;phone call recordings;screen name",
+        "demographic_data": "birthdate",
+        "interaction_data": "future communication preferences;interaction data",
+        "device_information":"OS version;unique device identifiers",
+        "health_and_fitness_data": "height;weight;use of hormonal birth control;pregnancy status;breastfeeding status;period flow;headaches;appetite change;mood;breast tenderness;skin condition;cycle length"
+       },
+
+    "data_usage_sales_third_parties":"NA", 
+
+    "data_usage_personalization_provider":{
+
+    },
+    "data_usage_personalization_third_parties":{
+       },
+
+    "data_usage_legal_obligations_provider":{
+        "personal_data": "name",
+        "contact_data": "email address;address;mobile number;phone call recordings;screen name",
+        "demographic_data": "birthdate",
+        "interaction_data": "future communication preferences;interaction data",
+        "device_information":"OS version;unique device identifiers",
+        "health_and_fitness_data": "height;weight;use of hormonal birth control;pregnancy status;breastfeeding status;period flow;headaches;appetite change;mood;breast tenderness;skin condition;cycle length"
+       },
+       
+    "data_usage_legal_obligations_third_parties": "NA"
+ }
+
+ 
